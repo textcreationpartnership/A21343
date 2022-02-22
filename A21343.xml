@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At a session of Sewars holden at the cittie of Ely, the xxij. and xxiij. dayes of September, ann. Dom. 1619 ...</title>
+            <author>England and Wales. Court of Sewers (Ely, Cambridgeshire, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21343</idno>
+            <idno type="STC">STC 7686.2</idno>
+            <idno type="STC">ESTC S367</idno>
+            <idno type="EEBO-CITATION">22333628</idno>
+            <idno type="OCLC">ocm 22333628</idno>
+            <idno type="VID">25388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25388)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1752:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At a session of Sewars holden at the cittie of Ely, the xxij. and xxiij. dayes of September, ann. Dom. 1619 ...</title>
+                  <author>England and Wales. Court of Sewers (Ely, Cambridgeshire, England)</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>C. Legge,</publisher>
+                  <pubPlace>[Cambridge, England :</pubPlace>
+                  <date>1619]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Pertains to project of draining fens undertaken by Sir William Ayloffe and Sir Anthony Thomas.</note>
+                  <note>Reproduction of original in the University of Cambridge. Archives.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ayloffe, William, --  Sir, 1563-1627.</term>
+               <term>Thomas, Anthony, --  Sir.</term>
+               <term>Isle of Ely (England) --  History.</term>
+               <term>Cambridgeshire (England) --  History.</term>
+               <term>Fens, The (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="order">
+            <pb facs="tcp:25388:1" rendition="simple:additions"/>
+            <pb facs="tcp:25388:1" rendition="simple:additions"/>
+            <head>AT A SESSION OF SEWARS HOLDEN AT THE CITTIE OF <hi>ELY,</hi> the xxij. and xxiij. dayes of <hi>September, Ann. Dom.</hi> 1619. before the Reuerend Father in God NICHOLAS, Lord Biſhop of <hi>Ely,</hi> S<hi rend="sup">r</hi>. MILES SANDYS, Knight and Barronet, S<hi rend="sup">r</hi>. EDVVARD RADCLIFFE, S<hi rend="sup">r</hi>. IOHN CVTS, S<hi rend="sup">r</hi>. SIME<g ref="char:EOLhyphen"/>ON STEVVARD, S<hi rend="sup">r</hi>. RICHARD COXE, S<hi rend="sup">r</hi>. WILLIAM WENDIE, Knights: IOHN GOSTLIN Doctor of Phyſicke, Vicechancellor of the Vniuerſitie of <hi>Cambridge,</hi> IOHN CROPLEY, and HENRIE SMITH, Doctors of Diuinitie, IOHN POPE Doctor of Lawe, <hi>Henrie Bing</hi> Eſquier, M<hi rend="sup">r</hi>. <hi>Ierome Beale,</hi> Batchelor in Diuinitie, <hi>Daniel Wigmore</hi> Archdeacon of <hi>Ely, Robert Steward, Iſaac Barrowe, Daniell Goodricke, Peter Franckland,</hi> Eſquiers; <hi>Rebert Clench, Iohn Pepis, Iohn Orwell, Simon Watſon,</hi> and <hi>Henry <g ref="char:V">Ʋ</g>pcher,</hi> Gentlemen, Commiſſioners of <hi>Sewars</hi> amongſt others aſſigned: It is ordered as followeth: <hi>viz.</hi>
+            </head>
+            <p>WHEREAS The Kings moſt excellent Maieſtie, by his gracious Letters, dated at <hi>Windſore</hi> the iiij. day of this inſtant moneth of <hi>September,</hi> directed vnto the Commiſſioners of Sewars in the Countie of <hi>Cambridge,</hi> Iſle of <hi>Ely, Suffolke, Norfolke, Lincolne, Northampton, Huntingdon,</hi> &amp;c. therein ſignifying, that S<hi rend="sup">r</hi>. WILLIAM AYLOFFE, Knight and Barronet, S<hi rend="sup">r</hi>. ANTHONIE THOMAS Knight, with other their friends, at their owne charge haue vndertaken the great and worthy worke, to draine the grounds ſurrounded with freſh or ſalt waters, in the ſeuerall Counties of <hi>Cambridge,</hi> the Iſle of <hi>Ely, Norfolke, Suffolke, Lincolne, Northampton, Huntingdon,</hi> &amp;c. whereby his Maieſtie conceiueth, that a great and in<g ref="char:EOLhyphen"/>eſtimable profit will ariſe to the Kingdome, and that the ſaid worke will disburthen the ſaid Counties, and the Inhabitants thereof, from the taxes and char<g ref="char:EOLhyphen"/>ges now continually impoſed vpon them, and will reconcile, and vtterly take away all differences, and diſcontents heretofore ariſing about the leuying of ſuch taxes: Alſo ſignifying, that the ſaid Vndertakers haue alreadie concluded in point with his Maieſtie, concerning the recompence for the draining his Maieſties lands, and the lands of the Prince his Highnes; And hath by his Maieſties ſaid Letters, recommended the ſaid Vndertakers, and their deſignes to the eſpeciall care of all the Lords, and other Commiſſioners of <hi>Sewars,</hi> for all and euery the ſaid Counties, requiring them to be aiding and aſſiſting to them in the Contracts to be made with the Subiects according to Lawe; And that all perſons ſhould be reſpectiue, and conformable to that his Maieſties Royall pleaſure.</p>
+            <p>AND therewithall, the right Honourable Lords, and others of his Maieſties moſt Honourable Priuie Counſell, for further direction and inſtruction, haue alſo directed their Honourable Letters, bearing date at <hi>Windſore</hi> aforeſaid, the v. day of the ſaid moneth of <hi>September,</hi> Wherein their Lordſhips for the better clearing of the ſaid buſineſſe, haue mentioned one cheife purpoſe of the ſaid Vndertakers, That they entend to beginne their workes at the Sea, and to open the out-falls of <hi>Neane</hi> and <hi>Welland,</hi> and make them nauigable to the Townes of <hi>Spalding</hi> and <hi>Wiſhich,</hi> which (their Lordſhips conceiued) will take a<g ref="char:EOLhyphen"/>way all feare of turning the waters vpon any the neighbour-Countries, and drawe the ſame into their true and naturall channells, without any further trou<g ref="char:EOLhyphen"/>ble or inconuenience.</p>
+            <p>For the readier, and more ſpeedie execution whereof, their Lordſhips by their ſaid Letters did likewiſe require the ſaid Commiſſioners of <hi>Sewars,</hi> to ob<g ref="char:EOLhyphen"/>ſerue well his Maieſties ſaid gracious, and Princely direction.</p>
+            <p>WHEREFORE We the foreſaid Commiſſioners, at this preſent Seſſion of <hi>Sewars,</hi> aſſembled in all humble obedience to his moſt excellent Ma<g ref="char:EOLhyphen"/>ieſtie, and dutifull obſeruation of his Maieſties ſaid Royall pleaſure; And beeing very forward and willing, to giue all due reſpect to the right Honou<g ref="char:EOLhyphen"/>rable their Lordſhips inſtructions and commands; And alſo becauſe the ſaid Vndertakers this day repairing vnto vs haue declared,</p>
+            <p>That their intent is ſo to draine the ſaid Fennes and grounds, as that by their ſaid works, and drainings, none in generall, nor any perſon in particu<g ref="char:EOLhyphen"/>lar, ſhall receiue any hurt or preiudice.</p>
+            <p>And that they will from time to time, maintaine and ſecure the ſame ſo drained.</p>
+            <p>And that they will not receiue any recompence, but where through their induſtrie an increaſe of benefit ſhall be raiſed to the owners, or occupiers thereof, and that after their workes ſhall be perfected.</p>
+            <p>And if any queſtion ariſe whether any benefit be receiued in any particular by their ſaid induſtry, it ſhall be decided by a ſufficient and able Iurie, (to be named by the Commiſſioners of <hi>Sewars</hi> of the Countie of <hi>Cambridge</hi> now beeing) and inhabiting within the ſaid Countie, or the greater part of them, for the Countie of <hi>Cambridge;</hi> and ſuch Iurors ſo nominated, and no others, ſhall be returned by the Sheriffe of the ſaid Sheire.</p>
+            <p>And if any like queſtion ariſe for the Iſle of <hi>Ely,</hi> it ſhall be decided by a ſufficient and able Iurie, to be named by the nowe Lord Biſhop of <hi>Ely,</hi> and ſuch Iurors ſo named, and no others, ſhall be returned by the Baliffe of the Liberties of the ſaid Lord Biſhop, vpon euidence giuen on either ſide.</p>
+            <p>And alſo that they will giue ſuch recompence and ſatisfaction to thoſe parties that ſhall receiue hurt or damage, by any of their ſaid workes, as the foreſaid now Commiſſioners, or the greater part of them, for lands lying in the Countie of <hi>Cambridge;</hi> and the ſaid L. Biſhop now beeing, (for the lands lying in the Iſle of <hi>Ely)</hi> ſhall thinke fit.</p>
+            <p>And that at their owne charge, they will make prouiſion, that water ſhall be conueled, and ſtay at thoſe Townes (where water hath heretofore come, and ſtayed) for Nauigation and Tranſportation, and the Towneſhips afterwards to maintaine it.</p>
+            <p>And that they will better, and in no wiſe hurt, or impayre, the Nauigation in the Riuers of <hi>Graunt</hi> and <hi>Owſe.</hi>
+            </p>
+            <p>WEE (beeing deſirous ſo excellent a worke ſhould haue all poſſible furtherance, as well in regard of the exceeding benefit which is intended, as for the incouragement of thoſe perſons that aduenture great ſummes of money to performe the ſame) <hi>doe order, decree, enact, and eſtabliſh,</hi> as followeth: <hi>viz.</hi>
+            </p>
+            <p>THAT the ſaid Vndertakers ſhall haue free conſent and approbation of this Court, to proceede with their enterpriſe ſo ſoone as they ſhall thinke meete, We beeing determined to glue them all aide and aſſiſtance, which lawfully we may by authoritie of our ſaid Commiſſion: And that We ſhall alſo from time to time, aſſiſt and further them in the ſaid Contracts, with the Lords, owners, commoners, and parties intereſſed in the ſaid fennes and grounds, in all lawfull manner, according to his Maieſties ſaid pleaſure, and their Lordſhips ſaid directions, and according to ſuch agreements and Contracts, as by the ſaid Vndertakers with the Lords, owners, commoners, and parties intereſſed in the ſaid fennes and grounds, ſhall bee made and ſet downe.</p>
+            <p>IT IS ALSO agreed, and ſo ordered at this Court, that the Tenor of this Order be publiſhed in all and euery Towne, Parriſh, Village, Mannor, or Lordſhip, within the Countie of <hi>Cambridge,</hi> and Iſle of <hi>Ely,</hi> by the Lords of the Mannors in their Courts, Leetes, or Courts Barons next to be called, and by the Miniſters of the Pariſhes in the Churches on this ſide, and before the fift of <hi>October</hi> next; to the ende that all owners, commoners, and other perſons intereſſed in any drowned grounds, within the Countie and Iſle aforeſaid, hauing notice therof, may apply themſelues with ſpeed to repaire vnto the Vnder<g ref="char:EOLhyphen"/>takers, or their Aſſignes, abiding at the ſigne of the <hi>Bell</hi> at <hi>Ely,</hi> and at the ſigne of the <hi>Faulcon</hi> in <hi>Cambridge,</hi> for making and concluding their Contracts according to the true intent, and purport of this Order: That in default of ſuch Contracts, this Court may (at the next Seſſion of <hi>Sewars,</hi> which is to bee holden at <hi>Cambridge</hi> Caſtle, at eight of the clocke in the forenoone, the thirteenth day of <hi>October</hi> next) take further order for the expedition of the precee<g ref="char:EOLhyphen"/>ding of the Vndertakers in their workes, according to his Maieſties pleaſure.</p>
+            <p>
+               <hi>MEMORANDVM,</hi> That it is not the intent and purpoſe of the Vndertakers, to alter or change the ſtate of any Commons, but onely to haue ſuch competent part thereof, to be ſet out in ſeueraltie to them, and their heires, as ſhall content them for their worthy worke of dreyning the ſame, and the re<g ref="char:EOLhyphen"/>ſidue of euery Common to remaine in the ſame Condition, (to all intents and purpoſes) as now it doth.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
